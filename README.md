@@ -19,11 +19,12 @@
 ## Introduction
 
 In today's competitive job market, a well-designed video curriculum can make all the difference.
-This Video Curriculum Project is a creative endeavor to craft an engaging and dynamic video curriculum that goes beyond the limitations of a traditional paper CV. This project aims to present my skills, knowledge, and unique attributes in a visually compelling and concise video format. By leveraging multimedia elements such as images, texts, and music, and using professional video editing software 'Wondershare Filmora 12', it consists in a standout presentation to impress potential employers.
+This Video Curriculum Project is a creative endeavor to craft an engaging and dynamic video curriculum that goes beyond the limitations of a traditional paper CV. This project aims to present my skills, knowledge, and unique attributes in a visually compelling and concise video format.
+Despite its simplicity, its creation was done in a professional way, leveraging project management tools. Thereby it served as a stepping stone for tackling more intricate and ambitious undertakings in the future.
 
 ## Project Management
 
-To ensure the successful completion of the video curriculum, efficient project management tools and methodologies were employed. Key project management aspects include:
+Key project management aspects include:
 
 - **SWOT Analysis:** Conducted a thorough analysis of strengths, weaknesses, opportunities, and threats to devise a robust project strategy.
 - **GANTT Chart:** Created a detailed GANTT chart to outline project tasks, timelines, and dependencies, ensuring effective time management.
