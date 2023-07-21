@@ -40,6 +40,6 @@ The completed video curriculum has been uploaded to the popular streaming platfo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code and resources in accordance with the license terms.
+This project is licensed under the [MIT License](https://github.com/AndreaAlberti07/My-Video-Curriculum/blob/main/LICENSE), allowing you to use, modify, and distribute the code and resources in accordance with the license terms.
 
 ---
